@@ -1,0 +1,11 @@
+/* En tu archivo de estilos externo (por ejemplo, styles.css) */
+
+.imagen-container {
+    max-height: 100%;
+    width: auto;
+}
+
+.imagen-container img {
+    width: 100%;
+    height: auto;
+}
