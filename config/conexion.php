@@ -5,6 +5,8 @@
 
     if($mysqli->connect_error){
         die("Erroe en la conexión" .$mysqli->connect_error);
+    }else{
+        echo "Conectado";
     }
     
 ?>
